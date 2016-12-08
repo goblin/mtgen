@@ -1,0 +1,1 @@
+cat jquery/dist/jquery.min.js underscore/underscore-min.js backbone/backbone.js mdn.base64.min.js fancybox2/jquery.fancybox.pack.js mtg-generator-lib.js
